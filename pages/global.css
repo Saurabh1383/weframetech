@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Urbanist:wght@400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@500&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-urbanist: Urbanist;
+  --font-nunito: Nunito;
+  --font-poppins: Poppins;
+  --paragraph-2-regular: Inter;
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-lg: 18px;
+  --font-size-mid: 17px;
+  --paragraph-2-regular-size: 14px;
+  --font-size-2xl-8: 21.8px;
+  --label-1-regular-size: 12px;
+  --font-size-5xl: 24px;
+  --font-size-xl: 20px;
+  --font-size-9xl: 28px;
+
+  /* Colors */
+  --color-whitesmoke-100: #f8fafb;
+  --light: #fff;
+  --color-gray-100: #fcfcfd;
+  --color-gray-200: #fafafa;
+  --dark: #212121;
+  --black-100: #1c1d22;
+  --text: #030229;
+  --color-gray-300: rgba(255, 255, 255, 0.8);
+  --color-darkslategray-100: #373b5c;
+  --main-black: #313145;
+  --grey: #a0a3bd;
+  --primary: #9058ff;
+  --color-blueviolet-100: #7950f2;
+  --color-blueviolet-200: #7750f1;
+  --color-lavender: #e8e9ff;
+  --black-50: #53545c;
+  --color-lightcyan: #e4fff8;
+  --color-mediumseagreen: #0dad82;
+  --color-gainsboro: #d9d9d9;
+  --secondary: #58a4ff;
+  --color-black: #000;
+  --text-color: #22285e;
+
+  /* Gaps */
+  --gap-3xs: 10px;
+  --gap-16xl: 35px;
+  --gap-base: 16px;
+  --gap-11xl: 30px;
+  --gap-8xs: 5px;
+  --gap-xl: 20px;
+  --gap-2xs: 11px;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+  --padding-base: 16px;
+  --padding-xl: 20px;
+  --padding-mini: 15px;
+  --padding-8xs: 5px;
+
+  /* Border radiuses */
+  --br-xl: 20px;
+  --br-3xs: 10px;
+  --br-8xs: 5px;
+  --br-481xl: 500px;
+  --br-mini: 15px;
+}
